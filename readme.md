@@ -1,6 +1,6 @@
 
 
-# Technical Devops Challenge
+# Introduction
 
 This repo contains a small "Hello World" webserver which simulates a small microservice
 
